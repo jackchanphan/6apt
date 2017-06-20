@@ -1,0 +1,64 @@
+*{
+	padding:0;
+	margin:0;
+	list-style: none;
+	text-decoration: none;
+	font-family: Helvetica,Arial,'Microsoft YaHei UI','Microsoft YaHei',华文细黑,'Microsoft JhengHei',sans-serif;
+	color:#333;
+}
+html{
+	font-size: 12px;
+}
+body>*{
+	overflow: hidden;
+	position: relative;
+}
+i{
+	display: inline-block;
+	font-style: normal;
+}
+a:hover{
+	color:#03a5ee;
+}
+.wrap{
+	width:1200px;
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+	margin:0 auto;
+}
+.left{
+	float:left !important;
+}
+.right{
+	float:right !important;
+}
+.float-sub:after,
+.clear:after{
+	content:"";
+	display: block;
+	height: 0;
+	clear:both;
+}
+.float-sub>*{
+	float:left;
+}
+h1{
+	font-size: 56px;
+	letter-spacing: 4px;
+	font-weight: bold;
+}
+h2{
+	font-size: 18px;
+	letter-spacing: 5px;
+	font-weight: normal;
+}
+.f16,.f16 *{
+	font-size: 16px;
+}
+.f19,.f19 *{
+	font-size: 19px;
+}
+.white,.white *{
+	color:#fff !important;
+}

@@ -1,0 +1,150 @@
+.logo{
+	width: 178px;
+	height:38px;
+	display: inline-block;
+	margin-top: 13px;
+	background: url(../img/logo.png) center center no-repeat;
+}
+.icon-header1,.icon-header2{
+	width: 20px;
+	height: 20px;
+	margin: 5px 5px 0;
+	vertical-align: sub;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.icon-header1{
+	background-image: url(../img/header-book.png) ;
+}
+header .booking li:hover .icon-header1{
+	background-image: url(../img/header-book1.png) ;
+}
+.icon-header2{
+	width: 17px;
+	background-image: url(../img/header-guide.png);
+}
+header .booking li:hover .icon-header2{
+	background-image: url(../img/header-guide1.png) ;
+}
+.icon-freeline{
+	width: 30px;
+	height: 30px;
+	margin: 3px 5px 0 0 ;
+	background: url(../img/header-free-phone.png);
+}
+.pic-cf1{
+	background: url(../img/rolling_1.jpg) center center no-repeat;
+}
+.pic-cf2{
+	background: url(../img/rolling_2.jpg) center center no-repeat;
+}
+.pic-cf3{
+	background: url(../img/rolling_3.jpg) center center no-repeat;
+}
+.icon-uk{
+	background-image: url(../img/QI_GB.png);
+}
+.icon-us{
+	background-image: url(../img/QI_US.png);
+}
+.icon-au{
+	background-image: url(../img/QI_AU.png);
+}
+.icon-fr{
+	background-image: url(../img/QI_FR.png);
+}
+.icon-ca{
+	background-image: url(../img/QI_CA.png);
+}
+.banner-sec .ctr-l{
+	background:url(../img/banner-l.png) center center no-repeat;
+}
+.banner-sec .ctr-r{
+	background:url(../img/banner-r.png) center center no-repeat;
+}
+.promotion-sec h1{
+	background-image: url(../img/bg1.png);
+}
+.aboutus-sec h1{
+	background-image: url(../img/bg5.png);
+}
+.pic-promotion1{
+	background-image: url(../img/teambuy.png);
+}
+.pic-promotion2{
+	background-image: url(../img/sheffield-activity.png);
+}
+.about-body{
+	width: 100%;
+	height: 338px;
+	padding-bottom: 88px;
+	margin-top: 2rem;
+	background: url(../img/bgg.png) center center no-repeat;
+}
+.aboutus-sec .pic-qrcode{
+	width: 142px;
+	height:142px;
+	margin-top: -1rem;
+	background:url(../img/qrcode.png) center no-repeat;
+}
+.aboutus-sec .icon-about1{
+	width: 98px;
+	height:43px;
+	margin-top: -22px;
+	margin-left: -49px;
+	background-image: url(../img/bai1.png);
+}
+.aboutus-sec .icon-about2{
+	width: 67px;
+	height:70px;
+	margin-top: -32px;
+	margin-left: -30px;
+	background-image: url(../img/bai2.png);
+}
+.aboutus-sec .icon-about3{
+	width: 64px;
+	height:64px;
+	margin-top: -27px;
+	margin-left: -27px;
+	background-image: url(../img/bai3.png);
+}
+.pic-fuping{
+	width: 73px;
+	height: 56px;
+	margin-top: 1.5rem;
+	background:url(../img/fuping.png) center no-repeat;
+}
+.icon-sns-fb{
+	background-image:url(../img/footer-facebook.png) ;
+}
+.icon-sns-twit{
+	background-image:url(../img/footer-twitter.png) ;
+}
+.icon-sns-weibo{
+	background-image:url(../img/footer-weibo.png) ;
+}
+.icon-sns-dou{
+	background-image:url(../img/footer-douban.png) ;
+}
+.icon-sns-wechat{
+	background-image:url(../img/footer-wechat.png) ;
+}
+.icon-tel{
+	background-image: url(../img/rightnav_phone.png);
+}
+.icon-qq{
+	background-image: url(../img/rightnav_QQ.png);
+}
+.icon-skype{
+	background-image: url(../img/rightnav_skype.png);
+}
+.icon-email{
+	background-image: url(../img/rightnav_email.png);
+}
+.icon-share{
+	background-image: url(../img/rightnav_share.png);
+}
+.icon-scrollup{
+	background-image: url(../img/rightnav_top.png);
+}
